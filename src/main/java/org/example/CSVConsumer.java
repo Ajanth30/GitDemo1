@@ -7,6 +7,8 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
+/* Changes in feature 1
+*/
 
 public class CSVConsumer {
     private static final String INSERT_INTO="insert into student_reg"+"(Student_Id,Student_Name,Gender,Adress,Contact)values"+"(?,?,?,?,?);";
