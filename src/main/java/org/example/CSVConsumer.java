@@ -48,7 +48,7 @@ public class CSVConsumer {
             reader.close();
             connection.commit();
         }catch (SQLException e){
-            System.out.println(e);
+            System.out.println("error");
         }
 
     }
