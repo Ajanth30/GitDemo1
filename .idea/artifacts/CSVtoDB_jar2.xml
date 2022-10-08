@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CSVtoDB:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/CSVtoDB_jar2</output-path>
+    <root id="archive" name="CSVtoDB.jar">
+      <element id="module-output" name="CSVtoDB" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Depenendancies jar/mysql-connector-java-8.0.30.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
